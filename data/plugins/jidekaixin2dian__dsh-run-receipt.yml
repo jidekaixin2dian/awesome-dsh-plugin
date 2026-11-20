@@ -1,0 +1,6 @@
+url: https://github.com/jidekaixin2dian/dsh-run-receipt
+name: jidekaixin2dian/dsh-run-receipt
+category: workflow
+description:
+  en: Review delivery, execution, and report evidence for native DeepSeek Harness schedules.
+  zh: 集中查收 DeepSeek Harness 原生自动化任务的投递回执、执行终态和报告验收结果。
